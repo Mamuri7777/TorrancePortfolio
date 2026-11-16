@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "designSystem": {
+    "slug": "contemporary",
+    "path": "design-systems/contemporary"
+  },
+  "skill": {
+    "slug": "web-prototype",
+    "path": "design-templates/web-prototype",
+    "kind": "design-template",
+    "mode": "prototype"
+  },
+  "boundAt": "2026-11-16T14:03:18Z"
+}
